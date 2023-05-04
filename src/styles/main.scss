@@ -1,0 +1,10 @@
+@use 'utilities';
+@use '_hero';
+@use '_infos';
+
+* {
+  padding:  0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: utilities.$fontePrincipal;
+}
